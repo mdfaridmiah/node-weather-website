@@ -1,1 +1,1 @@
-farid-weather-application.herokuapp.com
+https://farid-weather-application.herokuapp.com
